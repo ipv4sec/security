@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Xss</title>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/xss.js"></script>
+
+    <style>
+        div{ display:inline}
+    </style>
+</head>
+<body>
+<div>用户ID为 <div id="myId"> </div> 的描述为: <div id="myDescription"> </div> </div>
+
+
+<hr />
+
+
+<div>
+    <form>
+        <input type="text" name="description" id="changedDescription"/>
+        <button type="button" onclick="ModifyUserDescription()">修改</button>
+    </form>
+</div>
+</body>
+</html>
+
