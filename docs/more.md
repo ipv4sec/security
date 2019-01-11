@@ -30,3 +30,10 @@
 #### Links
 
 [Wooyun](http://www.anquan.us)
+[FreeBuf](https://www.freebuf.com/)
+[T00LS](https://www.t00ls.net/)
+[嘶吼](http://www.4hou.com/)
+[安全脉搏](https://www.secpulse.com/)
+[91R](http://www.91ri.org/)
+[安全圈](https://www.anquanquan.info/)
+[链接](https://www.t00ls.net/navi.html)

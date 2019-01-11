@@ -13,6 +13,9 @@ etc
 
 
 #### Links And Referer
+[Xss Payload 1](https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html)
+[Xss Payload 2](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20injection)
+[Xss Payload 3](https://github.com/Pgaijin66/XSS-Payloads)
 
 [Xss Payloads](https://www.google.com/search?q=xss+payload)
 
